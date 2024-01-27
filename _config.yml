@@ -4,6 +4,7 @@ plugins:
 
 title: Tammy Hartline's STEM Leadership e-Portfolio
 description: 
+"""
 # Introduction
 Greetings! I'm Tammy Hartline, a dedicated Computer Science enthusiast with a specialization in Data Analytics. My academic journey has been a thrilling exploration of various facets within the realm of computer science. Initially drawn to STEM Project Management, I embarked on a path that not only refined my leadership and business skills but also provided me with real-world experiences.
 
@@ -22,3 +23,4 @@ My exposure to STEM Project Management has honed my leadership and business acum
 
 ### Looking Ahead
 As I present my STEM Leadership e-Portfolio, I invite you to delve into the projects, experiences, and skills that define my journey. Each step has been a purposeful stride towards a holistic understanding of Computer Science and effective leadership in the ever-evolving technological landscape.
+"""
