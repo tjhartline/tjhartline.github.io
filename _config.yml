@@ -48,6 +48,9 @@ social:
   - title: Email
     url: mailto:tammyhartline@gmail.com
 
+#Include pages
+pages:
+  -index.md
 # Navigation
 main:
   - title: Home
