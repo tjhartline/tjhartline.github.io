@@ -3,10 +3,10 @@
 # Description: Configuration file for Jekyll site
 # Purpose: Set theme for portfolio site
 
-# Minimal Configuration
+# Dinky Configuration
 
 # Site settings
-title: "Tammy Hartline's Computer Science Portfolio"
+title: Tammy Hartline's Computer Science Portfolio
 description: >
   Welcome to my Portfolio Home Landing Page!
   
@@ -15,15 +15,14 @@ baseurl: "/Home" # the subpath of your site, e.g. /blog/
 url: "https://tjhartline.github.io" # the base hostname & protocol for your site
 
 # Build settings
-markdown: kramdown
+markdown: jekyll
 
-remote-theme: pages-themes/hacker
-
+remote-theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
 
 # Permalinks
-permalink: /:categories/:title/ 
+permalink: /:categories/:title/
 
 # Exclude from processing and display in RSS
 exclude:
@@ -50,12 +49,11 @@ social:
     url: mailto:tammyhartline@gmail.com
 
 # Navigation
-# Navigation
 main:
   - title: Home
     url: /
-  - title: Self Evaluation
-    url: /professional-self-assessment.md/
+  - title: Professional Self-Assessment
+    url: /professional-self-assessment/
   - title: Contact
     url: /contact/
   - title: Career
