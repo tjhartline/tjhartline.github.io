@@ -1,6 +1,8 @@
 ---
 layout: home
 title: "Tammy's GitHub Pages E-Portfolio"
+baseurl: "/Home" # the subpath of your site, e.g. /blog/
+url: "https://tjhartline.github.io"
 ---
 
 # Welcome to My GitHub Pages E-Portfolio
@@ -22,7 +24,4 @@ This Portfolio demonstrates my mastery and gained knowledge having completed all
 - [Reviews](/reviews/)
 
 ### Developed and Managed By: Tammy Hartline
-Copywrite 2024 Tammy Hartline. All rights reserved.
-
-         
-
+"Copywrite 2024 Tammy Hartline. All rights reserved."
