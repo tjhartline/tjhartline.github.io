@@ -3,7 +3,7 @@
 # Description: Configuration file for Jekyll site
 # Purpose: Set theme for portfolio site
 
-# Alembic Configuration
+# Minimal Configuration
 
 # Site settings
 title: "Tammy Hartline's Computer Science Portfolio"
@@ -54,8 +54,8 @@ social:
 main:
   - title: Home
     url: /
-  - title: About Me
-    url: /about/
+  - title: Self Evaluation
+    url: /professional-self-evaluation.md/
   - title: Contact
     url: /contact/
   - title: Career
