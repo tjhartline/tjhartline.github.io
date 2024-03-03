@@ -24,4 +24,4 @@ This Portfolio demonstrates my mastery and gained knowledge having completed all
 - [Reviews](/reviews/)
 
 ### Developed and Managed By: Tammy Hartline
-"Copywrite 2024 Tammy Hartline. All rights reserved."
+Copywrite 2024 Tammy Hartline. All rights reserved.
