@@ -1,0 +1,67 @@
+# Author: Tammy Hartline
+# Date: 2024-02-25
+# Description: Configuration file for Jekyll site
+# Purpose: Set theme for portfolio site
+
+# Dinky Configuration
+
+# Site settings
+title: Tammy Hartline's Computer Science Portfolio
+description: >
+
+baseurl: "/Home" # the subpath of your site, e.g. /blog/
+url: "https://tjhartline.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+remote-theme: jekyll/minima
+plugins:
+- jekyll-remote-theme
+
+# Permalinks
+permalink: /:categories/:title/
+
+# Exclude from processing and display in RSS
+exclude:
+  - file_management
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+  - _config.dev.yml
+  - .git
+  - .gitignore
+
+# Jekyll SEO Tag configuration
+seo:
+  # Add additional configurations for SEO
+
+# Social Media
+social:
+  - title: GitHub
+    url: https://github.com/tjhartline
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/tammy-hartline-91981266/
+  - title: Email
+    url: mailto:tammyhartline@gmail.com
+
+# Navigation
+main:
+  - title: Home
+    url: ./index.md
+  - title: Professional Self-Assessment
+    url: ./professional-self-assessment.md
+  - title: Networking
+    url: ./networking.md
+  - title: Original App
+    url: ./cs-340-orig.md
+  - title: New Enhanced App
+    url: ./cs-499-new.md
+  - title: Reviews
+    url: ./reviews.md
+  - title: Code Review 
+    url: ./code-review.md
+
+      -
