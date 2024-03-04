@@ -51,16 +51,7 @@ As I continue to evolve in my career, I am excited to further explore my passion
 In conclusion, I am grateful for the experiences that have shaped me thus far and look forward to the journey ahead. With a proactive mindset, a passion for learning, and a commitment to excellence, I am confident in my ability to achieve my goals and make a difference in the world of technology.
 
 - [Home Introduction](index.md)
-- [Professional Self-Assessment](professional-self-assessment.md)
-- [CS-340 Artifact State Original Explanation](cs-340-orig.md)
-- [CS-499 Artifact State Enhanced Explanation](cs-499-enhanced.md)
-- [Enhancement Plan](enhancement-plan.md)
-- [Code Review](code-review.md)
-- [Software Design and Engineering](software-design-and-engineering.md)
-- [Algorithms and Data Structures](algorithms-and-data-structures)
-- [Databases](databases.md)
-- [Final Application](final-application.md)
-- [Reviews](reviews)
+
 
 Developed and Managed By: Tammy Hartline
 ---
