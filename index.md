@@ -37,13 +37,6 @@ Then, on February 24, 2024, I was promoted to Team Lead Coordinator, which is wh
 
 While I am striving currently as a Coordinator with a very large AI tech company, I would like to work my toward being more on the AI development side, as I tend to be passionate about AI, Data, and puzzle solving, which is out of scope in my current position. I plan to continue to hone my skills related to LLM's, algorithms, and training sets. My ultimate goal, is to advance and settle into the role of a Prompt Engineer here at my current company.  
 
-
-# About Me
-
-  Welcome to my Portfolio Home Landing Page!
-  
-  Hello there! I'm Tammy Hartline, a passionate Computer Science enthusiast specializing in Artificial Intelligence, Data Analytics, and STEM Project Management. With a background in STEM Project Management, I bring a unique blend of leadership, business acumen, and analytical skills to the table. Through my e-portfolio, I showcase my mastery of computer science topics, backed by academic, project, and professional experiences.  Join me on this journey of exploration and innovation in the ever-evolving tech landscape!
-
 ## Table of Contents
 - [Home Introduction](index.md)
 - [Professional Self-Assessment](professional-self-assessment.md)
