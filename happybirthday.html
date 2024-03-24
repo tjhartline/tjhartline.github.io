@@ -3,91 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <title>Happy Birthday!</title>
     <style>
-
         body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-
-.card {
-    background-color: #ffd699;
-    border-radius: 20px;
-    padding: 40px;
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
-    text-align: center;
-    max-width: 600px;
-}
-
-h1 {
-    color: #cc6600;
-    font-size: 24px;
-    margin-bottom: 20px;
-}
-
-p {
-    color: #333;
-    margin-bottom: 10px;
-    line-height: 1.0;
-}
-
-img {
-    width: 350px;
-    height: 350px;
-    /* object-fit: cover; Remove this line */
-    margin-bottom: 20px;
-}
-
-.message {
-    font-style: italic;
-    color: #cc6600;
-    font-size: 14px;
-}
-
-.signature {
-    font-weight: bold;
-    color: #cc6600;
-}
-
-/* Responsive styles */
-@media only screen and (max-width: 600px) {
-    .card {
-        padding: 20px; /* Adjust padding for smaller screens */
-        max-width: 90%; /* Limit maximum width for smaller screens */
-    }
-
-    img {
-        width: 100%; /* Make image responsive to fill the width of the card */
-        height: auto; /* Maintain aspect ratio */
-    }
-
-    h1 {
-        font-size: 20px; /* Adjust font size for smaller screens */
-    }
-}
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .card {
+            background-color: #ffd699;
+            border-radius: 5vw; /* Adjusted border radius */
+            padding: 5vw; /* Adjusted padding */
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            max-width: 90%; /* Adjusted max-width */
+        }
+        h1 {
+            color: #cc6600;
+            font-size: 4vw; /* Adjusted font size */
+            margin-bottom: 4vw; /* Adjusted margin */
+        }
         p {
             color: #333;
-            margin-bottom: 10px;
-            line-height: 1.0;
+            margin-bottom: 2vw; /* Adjusted margin */
+            line-height: 1.5;
         }
         img {
-            width: 350px;
-            height: 350px;
-            /* object-fit: cover; Remove this line */
-            margin-bottom: 20px;
+            width: 100%; /* Adjusted width to fill the container */
+            max-width: 100%;
+            border-radius: 50%;
+            margin-bottom: 4vw; /* Adjusted margin */
         }
         .message {
             font-style: italic;
             color: #cc6600;
-            font-size: 14px;
+            font-size: 2vw; /* Adjusted font size */
+            margin-bottom: 2vw; /* Adjusted margin */
         }
         .signature {
             font-weight: bold;
