@@ -41,6 +41,7 @@
 6. __Stay Updated:__ Stay updated on industry trends and advancements in technology to remain competitive and relevant in the ever-evolving field of computer science.
 7. __Maintain Balance:__ Maintain a healthy work-life balance to sustain long-term success and well-being.
 
+
 # Lessons Learned
 My journey in pursuit of my BSCS degree may have been brief when compared to most, but it did not lack learning in the process and figuring out some of those lessons the hard way. The link below is an example of the hardest lesson learned, yet, it is likely to be one that I will reflect on most throughout my future career.
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122586661623902208" height="1534" width="504" frameborder="0" allowfullscreen="" title="My First Hard Lesson"></iframe>
