@@ -44,7 +44,6 @@ As I reflect on my journey, I am filled with gratitude for the opportunities tha
 
 ## Table of Contents
 
-- [Professional Self-Assessment](professional-self-assessment.md)
 - [Project Description](/portfolio-considerations/)
 - [About Me](/about-me/)
 - [CS-340 Artifact State](/cs-340-artifact-state/)
